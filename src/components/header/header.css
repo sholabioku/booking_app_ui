@@ -14,6 +14,7 @@
 .headerList {
   display: flex;
   gap: 40px;
+  margin-bottom: 50px;
 }
 
 .headerListItem {
@@ -26,4 +27,17 @@
   border: 1px solid #fff;
   padding: 10px;
   border-radius: 20px;
+}
+
+.headerDesc {
+  margin: 20px 0;
+}
+
+.headerBtn {
+  background: #0071c2;
+  color: #fff;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
 }
